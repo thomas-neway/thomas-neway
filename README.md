@@ -1,3 +1,4 @@
+![](https://github.com/thomas-neway/thomas-neway/blob/main/tomi.png)
 <h1 align="center">Hi 👋, I'm Tomas Neway</h1>
 <h3 align="center">A passionate Computer Engineer from Ethiopia</h3>
 
