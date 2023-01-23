@@ -1,5 +1,5 @@
 ![](https://github.com/thomas-neway/thomas-neway/blob/main/final.png)
-<h1 align="center">Hi 👋, I'm Tomas Neway</h1>
+<h1 align="center">Greetings 👋, I'm Tomas </h1>
 <h3 align="center">A passionate Computer Engineer from Ethiopia</h3>
 
 <!--<img align="right" alt="coding" height="400" src="">-->
@@ -17,6 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://telegram.com/tomi_shade" target="blank">telegram </a>
 <a href="https://fb.com/tomi neo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tomi neo" height="30" width="40" /></a>
 <a href="https://instagram.com/tomas.1369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tomas.1369" height="30" width="40" /></a>
 </p>
