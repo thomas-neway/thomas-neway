@@ -1,4 +1,4 @@
-![](https://github.com/thomas-neway/thomas-neway/blob/main/final.png)
+
 <h1 align="center">Greetings 👋, I'm Tomas </h1>
 <h3 align="center">A passionate Computer Engineer from Ethiopia</h3>
 
